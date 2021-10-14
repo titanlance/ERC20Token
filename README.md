@@ -1,4 +1,4 @@
-ERC20 "Titan" Token
+ERC20 "Lumerin" Token
 
 The _mint function is new in v2 of Contracts, using the variables of totalSupply and balances is no longer permitted and therefore we rely on the _mint function to do the same thing.
 
